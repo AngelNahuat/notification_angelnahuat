@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060915128749",
+    "project_id": "notifications-ba5e8",
+    "storage_bucket": "notifications-ba5e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060915128749:android:9a31bf950f06fb9fab9924",
+        "android_client_info": {
+          "package_name": "com.example.notification_angelnahuat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060915128749-pdoujira6fnmli4f50k8kcta384oe4ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQOpzhChx2U9ykgRIULV3sCOGzysS8sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060915128749-pdoujira6fnmli4f50k8kcta384oe4ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
